@@ -1,0 +1,10 @@
+{
+  "description": "Helps vehicle owners and assessors document damage, review assessment details, and manage repair claims through a polished, professional workflow.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
